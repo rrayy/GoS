@@ -1,4 +1,4 @@
--- Campeon:
+-- Champion:
 if GetObjectName(GetMyHero()) ~= "Ryze" then return end
 local ver = "1"
 
